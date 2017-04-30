@@ -2,7 +2,7 @@
   "name": "vue101",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "Jeng <kinkongjeng@hotmail.com>",
+  "author": "KONOE <https://www.facebook.com/konoesite/>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
